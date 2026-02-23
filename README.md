@@ -2,7 +2,7 @@
 
 Este repositorio contiene el **frontend** del proyecto, desarrollado con **React** utilizando **TypeScript** y **SWC** para un mejor rendimiento en el proceso de compilación.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Framework:** React
 - **Lenguaje:** TypeScript
@@ -10,4 +10,4 @@ Este repositorio contiene el **frontend** del proyecto, desarrollado con **React
 - **Gestor de paquetes:** npm / yarn / pnpm
 - **Estilos:** CSS / Tailwind CSS / Styled Components _(según aplique)_
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
