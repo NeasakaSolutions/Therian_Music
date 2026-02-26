@@ -15,8 +15,20 @@ npm i -D nodemon
 npm i -D typescript ts-node
 ```
 
+- Mongoose:
+```bash
+npm i mongoose
+```
 
+- Dotenv:
+```bash
+npm i dotenv
+```
 
+- Colors:
+```bash
+npm i colors
+```
 
 - Opcionales:
 ```bash
