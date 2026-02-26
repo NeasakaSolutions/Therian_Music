@@ -9,3 +9,16 @@ npm install express
 ```bash
 npm i -D nodemon
 ```
+
+- Typescript
+```bash
+npm i -D typescript ts-node
+```
+
+
+
+
+- Opcionales:
+```bash
+npm i --save @types/express
+```

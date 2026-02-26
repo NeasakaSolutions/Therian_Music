@@ -4,15 +4,16 @@
   "description": "Proyecto de una app de musica para la materia computo en la nube",
   "license": "ISC",
   "author": "NeasakaSolutions",
-  "type": "commonjs",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "dev":"nodemon index.js"
+    "dev": "nodemon src/index.ts"
   },
   "dependencies": {
     "express": "^5.2.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
