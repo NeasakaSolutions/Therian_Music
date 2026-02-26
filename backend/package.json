@@ -6,7 +6,9 @@
   "author": "NeasakaSolutions",
   "main": "index.ts",
   "scripts": {
-    "dev": "nodemon src/index.ts"
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
   },
   "dependencies": {
     "express": "^5.2.1"
