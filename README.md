@@ -34,10 +34,6 @@ El proyecto está construido con **React + TypeScript**, usando **Vite** y **Tai
 ```txt
 frontend/
 │
-├── public/
-│   ├── imagenes/        # Logos, imágenes estáticas
-│   └── videos/          # Videos de fondo
-│
 ├── src/
 │   ├── views/
 │   │   ├── LoginForm.tsx
