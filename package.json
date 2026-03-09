@@ -1,0 +1,21 @@
+{
+  "name": "therian_music",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene el **frontend** del proyecto, desarrollado con **React** utilizando **TypeScript** y **SWC** para un mejor rendimiento en el proceso de compilación.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeasakaSolutions/Therian_Music.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NeasakaSolutions/Therian_Music/issues"
+  },
+  "homepage": "https://github.com/NeasakaSolutions/Therian_Music#readme"
+}
