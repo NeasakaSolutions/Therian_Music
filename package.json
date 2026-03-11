@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/NeasakaSolutions/Therian_Music/issues"
   },
-  "homepage": "https://github.com/NeasakaSolutions/Therian_Music#readme"
+  "homepage": "https://github.com/NeasakaSolutions/Therian_Music#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
