@@ -4,15 +4,19 @@
   "description": "Backend para el proyecto universitario con nombre \"Therian Music\"",
   "license": "ISC",
   "author": "NeasakaSolutions",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon src/index.ts",
+    "build" : "tsc",
+    "start" : "node dist/index.js"
   },
   "dependencies": {
     "express": "^5.2.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.14"
+    "@types/express": "^5.0.6",
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
