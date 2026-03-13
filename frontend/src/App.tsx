@@ -1,7 +1,8 @@
 import { Routes, Route, Navigate } from "react-router-dom";
 import AuthLayout from "./layouts/AuthLayout";
-import LoginForm from "./views/Loginform";
+import LoginForm from "./views/LoginForm";
 import RegisterForm from "./views/RegisterForm";
+import Home from "./views/Home";
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
         <Route path="/register" element={<RegisterForm />} />
         <Route path="*" element={<Navigate to="/login" />} />
       </Route>
+      <Route path="/home" element={<Home />} />
     </Routes>
   );
 }
